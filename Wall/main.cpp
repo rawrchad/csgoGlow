@@ -14,9 +14,9 @@
 #include "Utils.cpp"
 #include <ApplicationServices/ApplicationServices.h>
 
-uint64_t glowInfoOffset = 0x595b3a0;
-uint64_t LocalPlayerBase = 0x514bad8;
-uint64_t playerBase = 0x50c8658;
+uint64_t glowInfoOffset = 0x595c4a0;
+uint64_t LocalPlayerBase = 0x514cbd8;
+uint64_t playerBase = 0x50c9748;
 
 int m_iGlowIndex = 0xAC10;
 bool statBool = true;
